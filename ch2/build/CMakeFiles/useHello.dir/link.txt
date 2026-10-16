@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/useHello.dir/useHello.cpp.o -o useHello  -Wl,-rpath,/home/motong/slambook2-master/sLAM_LEARN/ch2/build libhello_shared.so 

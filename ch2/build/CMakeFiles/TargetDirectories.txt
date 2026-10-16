@@ -1,4 +1,0 @@
-/home/motong/slambook2-master/sLAM_LEARN/ch2/build/CMakeFiles/useHello.dir
-/home/motong/slambook2-master/sLAM_LEARN/ch2/build/CMakeFiles/hello_shared.dir
-/home/motong/slambook2-master/sLAM_LEARN/ch2/build/CMakeFiles/edit_cache.dir
-/home/motong/slambook2-master/sLAM_LEARN/ch2/build/CMakeFiles/rebuild_cache.dir

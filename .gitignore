@@ -1,0 +1,31 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+out/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeUserPresets.json
+
+# Compiled artifacts
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+*.exe
+a.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+compile_commands.json
+
+# Logs & temp
+*.log
+*~
+.DS_Store
